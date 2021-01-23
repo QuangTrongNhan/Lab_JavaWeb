@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/FPTU/CN5/LabWeb/HanaShop/src/java/nhanqt/controller/LoginServlet.java</file>
+            <file>file:/D:/FPTU/CN5/LabWeb/HanaShop/src/java/nhanqt/controller/UpdateAmountServlet.java</file>
+            <file>file:/D:/FPTU/CN5/LabWeb/HanaShop/src/java/nhanqt/controller/ViewHistoryServlet.java</file>
+            <file>file:/D:/FPTU/CN5/LabWeb/HanaShop/src/java/nhanqt/controller/PayProductServlet.java</file>
+            <file>file:/D:/FPTU/CN5/LabWeb/HanaShop/src/java/nhanqt/controller/UpdateProduct.java</file>
+            <file>file:/D:/FPTU/CN5/LabWeb/HanaShop/web/startPage.jsp</file>
+            <file>file:/D:/FPTU/CN5/LabWeb/HanaShop/web/home.jsp</file>
+            <file>file:/D:/FPTU/CN5/LabWeb/HanaShop/src/java/nhanqt/controller/HomePageServlet.java</file>
+            <file>file:/D:/FPTU/CN5/LabWeb/HanaShop/web/createPage.jsp</file>
+            <file>file:/D:/FPTU/CN5/LabWeb/HanaShop/src/java/nhanqt/controller/AddToCartServlet.java</file>
+            <file>file:/D:/FPTU/CN5/LabWeb/HanaShop/src/java/nhanqt/controller/AdminPageServlet.java</file>
+            <file>file:/D:/FPTU/CN5/LabWeb/HanaShop/src/java/nhanqt/controller/ViewOrderDetail.java</file>
+            <file>file:/D:/FPTU/CN5/LabWeb/HanaShop/src/java/nhanqt/controller/CreateItemServlet.java</file>
+            <file>file:/D:/FPTU/CN5/LabWeb/HanaShop/src/java/nhanqt/controller/DeleteCartServlet.java</file>
+            <file>file:/D:/FPTU/CN5/LabWeb/HanaShop/src/java/nhanqt/controller/LoginGoogleServlet.java</file>
+            <file>file:/D:/FPTU/CN5/LabWeb/HanaShop/web/adminPage.jsp</file>
+            <file>file:/D:/FPTU/CN5/LabWeb/HanaShop/src/java/nhanqt/controller/LogoutServlet.java</file>
+            <file>file:/D:/FPTU/CN5/LabWeb/HanaShop/web/historyErr.html</file>
+            <file>file:/D:/FPTU/CN5/LabWeb/HanaShop/src/java/nhanqt/controller/ServletDispatcher.java</file>
+            <file>file:/D:/FPTU/CN5/LabWeb/HanaShop/src/java/nhanqt/controller/DeleteProduct.java</file>
+            <file>file:/D:/FPTU/CN5/LabWeb/HanaShop/web/payVNPayErr.html</file>
+            <file>file:/D:/FPTU/CN5/LabWeb/HanaShop/web/viewDetail.jsp</file>
+            <file>file:/D:/FPTU/CN5/LabWeb/HanaShop/src/java/nhanqt/controller/RegisterGgAccount.java</file>
+            <file>file:/D:/FPTU/CN5/LabWeb/HanaShop/src/java/nhanqt/controller/PayByVNPayServlet.java</file>
+            <file>file:/D:/FPTU/CN5/LabWeb/HanaShop/web/viewHistory.jsp</file>
+        </group>
+    </open-files>
+</project-private>
