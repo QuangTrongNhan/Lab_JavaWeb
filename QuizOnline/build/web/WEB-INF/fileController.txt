@@ -1,0 +1,10 @@
+=login.jsp
+login=LoginAccountServlet
+logout=LogoutAccountServlet
+create=CreateAccountServlet
+
+
+
+
+
+

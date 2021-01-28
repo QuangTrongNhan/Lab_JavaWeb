@@ -1,0 +1,35 @@
+body{
+    margin: 0 auto;
+}
+.err-cont{
+    background-color: red;
+    opacity: 0.9;
+    width: 100%;
+    height: 70%;
+    display: flex;
+    justify-content: center;
+    
+}
+
+.err-cont p{
+    color: yellow;
+    font-size: 30px;
+}
+
+.err-cont a{
+    text-decoration: none;
+    font-size: 20px;
+    color: violet;
+}
+
+.err-cont a:hover{
+    text-decoration: none;
+    font-size: 20px;
+    color: aqua;
+}
+
+
+
+
+
+

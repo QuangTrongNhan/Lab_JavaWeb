@@ -1,0 +1,130 @@
+body{
+    margin: 0 auto;
+}
+.nav-title{
+    
+    background-color: activecaption;
+    display: flex;
+    justify-content: space-between;
+}
+
+.title h1{
+    margin-left: 100px;
+    font-family: monospace;
+    font-size: 15px;
+    border-bottom: 2px solid red;
+    font-size:30px;
+    color: saddlebrown;
+}
+.login-logout{
+    display: flex;
+}
+.login-logout input[type = "submit"]:hover{
+    background: #2ecc71;
+}
+
+.login-logout span{
+    color: white;
+    margin-right: 10px;
+}
+.login-logout input[type = "submit"]{
+    border: 0;
+    background: none;
+    display: block;
+    margin: 10px auto;
+    text-align: center;
+    border: 2px solid #2ecc71;
+    padding: 10px 30px;
+    outline: none;
+    color: white;
+    border-radius: 24px;
+    transition: 0.25s;
+    cursor: pointer;
+}
+.box h1{
+    color: white;
+    text-transform: uppercase;
+    font-weight: 500;
+}
+.body-cont{
+    margin-top: 10vw;
+    margin-left: 70vh;
+    width: 500px;
+    height: 400px;
+}
+
+.body-cont input[type = "text"]{
+    border: 0;
+    background: none;
+    display: block;
+    margin: 20px auto;
+    text-align: center;
+    border: 2px solid #3498db;
+    padding: 14px 10px;
+    width: 200px;
+    outline: none;
+    color: white;
+    border-radius: 24px;
+}
+.box{
+    width: 300px;
+    padding: 40px;
+    position: absolute;
+    top: 50%;
+    left:50%;
+    transform: translate(-50%,-50%);
+/*    background: black;*/
+    background-color: activecaption;
+    opacity: 0.75;
+    text-align: center;
+}
+
+.box input[type = "submit"]{
+    border: 0;
+    background: #2ecc71;
+    display: block;
+    margin: 20px auto;
+    text-align: center;
+    border: 2px solid #2ecc71;
+    padding: 14px 40px;
+    outline: none;
+    color: white;
+    border-radius: 24px;
+    transition: 0.25s;
+    cursor: pointer;
+}
+
+.d-flex{
+    display: flex;
+    padding-top: 10px;
+    margin-right: 30px;
+}
+
+html {
+  height: 100%;
+  box-sizing: border-box;
+}
+
+*,
+*:before,
+*:after {
+  box-sizing: inherit;
+}
+
+body {
+  position: relative;
+  margin: 0;
+  padding-bottom: 6rem;
+  min-height: 100%;
+  font-family: "Helvetica Neue", Arial, sans-serif;
+}
+
+.footer {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  padding: 2rem;
+  background-color: #efefef;
+  text-align: center;
+}
